@@ -1,3 +1,5 @@
+*This Repository is in Indonesian*
+
 # 🏦 Prediksi Langganan Deposito Berjangka Bank
 
 Proyek *machine learning* yang mengevaluasi model klasifikasi **Decision Tree**, **Random Forest**, dan **XGBoost** untuk memprediksi apakah seorang nasabah akan berlangganan deposito berjangka (*deposito*) berdasarkan Bank Marketing dataset.
